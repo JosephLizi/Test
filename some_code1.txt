@@ -1,0 +1,5 @@
+pretend there is some code here
+
+private void main(){
+	console.log("some log");
+}
