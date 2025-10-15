@@ -1,5 +1,6 @@
 pretend there is some code here
 
 private void main(){
+	console.log("enter main");
 	console.log("some log");
 }
